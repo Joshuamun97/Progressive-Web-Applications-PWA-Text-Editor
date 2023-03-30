@@ -53,14 +53,14 @@ npm i
 
 ## Usage
 
-To use the application from the command line (after installing dependencies):
+After you have installed your dependencies, follow these steps from the terminal:
 1. Open the root directory of the repository in your terminal or bash.
-2. Bundle the front-end code by entering ```npm run build``` in the command line.
-3. Start the server by entering ```npm run start``` in the command line.
-4. Go to the port on your local host.
+2.Run```npm run build``` in the command line.
+3. Run ```npm run start``` to start the server.
+4. Go to the port on your local host. in my case, it is 3000.
 5. Click the "Install" button.
 
-Alternatively, to use the live application, click [here]().
+Otherwise, just utilize the online version on heroku as directed above.
 
 ## Credits
 
