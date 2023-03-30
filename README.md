@@ -37,11 +37,11 @@ To create this application, I used:
 
 ### Code Repository
 
-The repository where the code is saved is on Github. To access it, click [here](https://github.com/hayleyarodgers/pwa-text-editor).
+The repository where the code is saved is on Github. To access it, click [here](https://github.com/Joshuamun97/Progressive-Web-Applications-PWA-Text-Editor).
 
 ### Live Application
 
-My application is deployed on Heroku. To access it, click [here](https://hayleyarodgers-pwa-text-editor.herokuapp.com/).
+My application is deployed on Heroku. To access it, click [here]().
 
 ## Installation
 
@@ -60,8 +60,8 @@ To use the application from the command line (after installing dependencies):
 4. Go to the port on your local host.
 5. Click the "Install" button.
 
-Alternatively, to use the live application, click [here](https://hayleyarodgers-pwa-text-editor.herokuapp.com/).
+Alternatively, to use the live application, click [here]().
 
 ## Credits
 
-- This is the [starter code](https://github.com/coding-boot-camp/cautious-meme) I used.
+N/A
