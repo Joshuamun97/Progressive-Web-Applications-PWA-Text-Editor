@@ -13,7 +13,7 @@ const initdb = async () =>
 	});
 
 // Accepts some content and add it to the database.
-export const putDb = async (content) => {
+export const putData = async (content) => {
 	console.log("PUT to the database");
 
 	// Create a connection to the database and version we want to use.
