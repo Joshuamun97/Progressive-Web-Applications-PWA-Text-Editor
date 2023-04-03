@@ -41,7 +41,7 @@ The repository where the code is saved is on Github. To access it, click [here](
 
 ### Live Application
 
-My application is deployed on Heroku. To access it, click [here]().
+My application is deployed on Heroku. To access it, click [here](https://morning-garden-20530.herokuapp.com/).
 
 ## Installation
 
@@ -64,4 +64,4 @@ Otherwise, just utilize the online version on heroku as directed above.
 
 ## Credits
 
-N/A
+askBCS
